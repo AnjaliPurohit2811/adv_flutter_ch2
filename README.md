@@ -1,3 +1,29 @@
+
+# Advance Ui
+
+Android :
+
+- Android UI design involves the use of prebuilt Android UI components, such as structured layout objects and UI controls, to build the graphical user interface for our applications.
+
+Ios:
+
+- Apple iOS is a proprietary mobile operating system that runs on mobile devices such as the iPhone and iPad. Apple iOS stands for iPhone operating system and is designed for use with Apple's multitouch devices.
+
+Uses of Widgets : 
+
+- DatePicker(Android) :  Date Range Picker widget allows users to easily select dates or a range of dates. It has four built-in views that allow quick navigation to the desired date.
+
+- TimePicker(Android) :  It allows you to select time by hour and minute.
+
+- DatePicker(Ios) : A user interface (UI) element in Flutter called the Cupertino date picker enables users to choose a date from a calendar-like layout.
+
+- TimePicker(Ios) : Flutter offers a mighty, yet flexible widget for picking time – the TimePicker. It establishes an interactive dialog where users can view and modify a time in a 24-hour format. An important aspect that we, as developers, love about the Flutter TimePicker is its ease of implementation and customization.
+
+- ActionSheet(Ios) : An action sheet is a specific style of alert that presents the user with a set of two or more choices related to the current context. An action sheet can have a title, an additional message, and a list of actions. The title is displayed above the message and the actions are displayed below this content.
+
+- DialogBox(Ios) : The dialog is a type of widget which comes on the window or the screen which contains any critical information or can ask for any decision.
+
+
 <h1 align="center">Advance Flutter Chapter 1</h1>
 
 <h3 align="center">🔥 DatePicker , TimePicker , Dialog , ActionSheet 🔥</h3>
