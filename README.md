@@ -40,5 +40,11 @@ Uses of Widgets :
     <a href="https://github.com/AnjaliPurohit2811/adv_flutter_ch2">👉 📚 Go to dart file 📚 👈</a>
     adv_flutter_ch2
 
+<h3 align="center">🔥Platform Class and Adaptive Widget's 🔥</h3>
+
+# Platform Class
+ 
+- In Flutter, the Platform class is a utility class that provides information about the platform on which the Flutter app is running. It allows developers to write platform-specific code within their Flutter applications. The Platform class is part of the dart:io library.
+
 
 
