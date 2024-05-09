@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Advance Ui
 
@@ -49,21 +49,9 @@ Uses of Widgets :
 
 
 
-=======
-# adv_flutter_ch2
+# Cupertino List Section
 
-A new Flutter project.
+  <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/d6c4ff45-7349-4897-b8d3-00ef4c792ea4' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/2e275b9a-a4e1-4b65-8baa-48e25f2b9483' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/ecfd76fd-c4d9-483b-ba22-29de8cdf798a' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 22b777d (Initial commit)
