@@ -1,25 +1,41 @@
-import 'dart:io';
-
+import 'package:adv_flutter_ch2/screens/UI2/provider/platform.dart';
+import 'package:adv_flutter_ch2/screens/UI2/view/material/button.dart';
+import 'package:adv_flutter_ch2/screens/UI2/view/material/listtile.dart';
+import 'package:adv_flutter_ch2/screens/UI2/view/material/progress_indicator.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:adv_flutter_ch2/utils/color_list.dart';
-import 'package:adv_flutter_ch2/screens/UI2/provider/platform.dart';
 
-class MaterialScreen extends StatelessWidget {
-  const MaterialScreen({super.key});
+class AndroidScreen extends StatelessWidget {
+  const AndroidScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: primarycolor,
       appBar: AppBar(
-        backgroundColor: secondarycolor,
-        title: Text('Android Platform'),
+        elevation: 5,
+        shadowColor: Colors.grey,
+        title: Text(
+          'Android Screen',
+          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 27),
+        ),
+        centerTitle: true,
         actions: [
           Switch(
-              value: Provider.of<PlatformProvider>(context, listen: true).isAndroid,
-              onChanged: (value) {Provider.of<PlatformProvider>(context, listen: false)
-                  .PlatformChanger(value);})
+            value:
+            Provider.of<PlatformProvider>(context, listen: true).isAndroid,
+            onChanged: (value) {
+              Provider.of<PlatformProvider>(context, listen: false)
+                  .PlatformChanger(value);
+            },
+          )
+        ],
+      ),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        children: [
+          indicator(),
+          listTileAndroid(),
+          materialButton(context),
         ],
       ),
     );
