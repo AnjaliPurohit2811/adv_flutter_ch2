@@ -55,3 +55,26 @@ Uses of Widgets :
   <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/2e275b9a-a4e1-4b65-8baa-48e25f2b9483' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/ecfd76fd-c4d9-483b-ba22-29de8cdf798a' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
+# Cupertino BottemTabBar
+- An iOS-styled bottom navigation tab bar. Displays multiple tabs using BottomNavigationBarItem with one tab being active, the first tab by default.
+
+  
+<img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/f8986a3a-1837-4153-9320-339759c2aff8' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+# Cupertino SliderSegement
+-Displays the widgets provided in the Map of children in a horizontal list. It allows the user to select between a number of mutually exclusive options, by tapping or dragging within the segmented control. 
+
+
+<img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/9263689c-dc6c-4de6-949a-ce1b6d03d3c9' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+# Cupertino RangeSlider
+-Used to select from a range of values. A slider can be used to select from either a continuous or a discrete set of values. The default is use a continuous range of values from min to max. 
+
+<img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/ff929934-2b61-4c0c-a14c-bb62c5fa4b3c' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+# BottemTab , RangeSlider, SliderSegement's Video
+
+<video src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/02913277-56ff-43ca-981b-f73f201e85a1' >
+   
+
+
