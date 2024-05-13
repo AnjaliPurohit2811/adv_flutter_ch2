@@ -17,7 +17,7 @@ class BottemTab extends StatelessWidget {
             onPressed: () {
               Navigator.of(context).push(CupertinoPageRoute(builder: (context) => RangeSliderChange()));
             },
-              child: Icon(CupertinoIcons.chevron_forward , color: CupertinoColors.darkBackgroundGray,)),
+              child: Icon(CupertinoIcons.chevron_forward , color: CupertinoColors.systemGrey,)),
 
         ),
         child: CupertinoTabScaffold(

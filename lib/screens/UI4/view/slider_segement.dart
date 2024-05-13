@@ -41,15 +41,6 @@ class SliderSegement extends StatelessWidget {
                 },
               ),
             ),
-            // trailing: CupertinoButton(
-            //   padding: EdgeInsets.zero,
-            //   child: Icon(CupertinoIcons.chevron_right),
-            //   onPressed: () {
-            //     Navigator.of(context).push(CupertinoPageRoute(
-            //       builder: (context) => CupertinoSliderScreen(),
-            //     ));
-            //   },
-            // ),
           ),
           SliverFillRemaining(
             child: Center(
