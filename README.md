@@ -75,6 +75,17 @@ Uses of Widgets :
 # BottemTab , RangeSlider, SliderSegement's Video
 
 <video src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/02913277-56ff-43ca-981b-f73f201e85a1' >
-   
 
+# PageView 
+- The PageView widget is used to create swipeable pages. In page view, you can add multiple child widgets, each of which is considered a page and can be scrolled horizontally or vertically.
+
+ <video src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/dc14a60d-6e5c-4108-b790-910d89ab6437' >
+
+# BottomNavigationBar
+- The BottomNavigationBar is a utility in Flutter, which eases the navigation of the user to multiple screens within an application.
+
+  <img src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/da6f6bb0-6176-4e7d-97cd-3c323b67dc9c' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+   <video src='https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/97ed461a-d00d-4a67-9c06-03594152e08d' >
+   
 
