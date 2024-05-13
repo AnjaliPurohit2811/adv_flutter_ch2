@@ -1,5 +1,7 @@
 
 
+
+
 import 'package:adv_flutter_ch2/screens/UI1/view/dialog.dart';
 import 'package:adv_flutter_ch2/screens/UI1/view/time_picker.dart';
 import 'package:adv_flutter_ch2/screens/UI1/view/time_picker_ios.dart';
@@ -11,6 +13,9 @@ import 'package:adv_flutter_ch2/screens/UI4/provider/rangeprovider.dart';
 import 'package:adv_flutter_ch2/screens/UI4/provider/sliderprovider.dart';
 import 'package:adv_flutter_ch2/screens/UI4/view/bottem_tab.dart';
 import 'package:adv_flutter_ch2/screens/UI4/view/slider_segement.dart';
+import 'package:adv_flutter_ch2/screens/UI5/provider/bottom_provider.dart';
+import 'package:adv_flutter_ch2/screens/UI5/view/bottomnavigationbar/bottom_navigation.dart';
+import 'package:adv_flutter_ch2/screens/UI5/view/intro_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -23,9 +28,24 @@ void main() {
     ChangeNotifierProvider(create: (context) => PlatformProvider()),
     ChangeNotifierProvider(create: (context) => SliderSegementProvider()),
     ChangeNotifierProvider(create: (context) => RangeSliderprovider()),
+    ChangeNotifierProvider(create: (context) => BottomProvider())
   ],child: const MyApp()),
   );
 
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+
+      home:BottomNav(),
+
+    );
+  }
 }
 
 // class MyApp extends StatelessWidget {
@@ -33,24 +53,10 @@ void main() {
 //
 //   @override
 //   Widget build(BuildContext context) {
-//     return MaterialApp(
+//     return CupertinoApp(
 //       debugShowCheckedModeBanner: false,
-//
-//       home:IosListTile(),
-//
+//       home: BottemTab(),
 //     );
 //   }
 // }
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return CupertinoApp(
-      debugShowCheckedModeBanner: false,
-      home: BottemTab(),
-    );
-  }
-}
 
