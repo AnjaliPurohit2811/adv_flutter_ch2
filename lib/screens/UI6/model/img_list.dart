@@ -1,0 +1,33 @@
+
+List images = [
+  {
+    'img':'asset/img/bg1.jpeg',
+  },
+  {
+    'img':'asset/img/bg2.jpeg',
+  },
+  {
+    'img':'asset/img/bg3.jpeg',
+  },
+  {
+    'img':'asset/img/bg4.jpeg',
+  },
+  {
+    'img':'asset/img/bg5.jpg',
+  },
+  {
+    'img':'asset/img/bg6.jpeg',
+  },
+  {
+    'img':'asset/img/bg7.jpg',
+  },
+  {
+    'img':'asset/img/bg8.jpg',
+  },
+  {
+    'img':'asset/img/bg9.jpeg',
+  },
+  {
+    'img':'asset/img/bg10.jpg',
+  },
+];

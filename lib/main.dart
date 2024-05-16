@@ -16,6 +16,8 @@ import 'package:adv_flutter_ch2/screens/UI4/view/slider_segement.dart';
 import 'package:adv_flutter_ch2/screens/UI5/provider/bottom_provider.dart';
 import 'package:adv_flutter_ch2/screens/UI5/view/bottomnavigationbar/bottom_navigation.dart';
 import 'package:adv_flutter_ch2/screens/UI5/view/intro_screen.dart';
+import 'package:adv_flutter_ch2/screens/UI6/view/action_sheet.dart';
+import 'package:adv_flutter_ch2/screens/UI6/view/context_menu.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -34,29 +36,29 @@ void main() {
 
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-
-      home:BottomNav(),
-
-    );
-  }
-}
-
 // class MyApp extends StatelessWidget {
 //   const MyApp({super.key});
 //
 //   @override
 //   Widget build(BuildContext context) {
-//     return CupertinoApp(
+//     return MaterialApp(
 //       debugShowCheckedModeBanner: false,
-//       home: BottemTab(),
+//
+//       home:BottomNav(),
+//
 //     );
 //   }
 // }
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return CupertinoApp(
+      debugShowCheckedModeBanner: false,
+      home: ContextMenuScreen(),
+    );
+  }
+}
 
