@@ -71,10 +71,36 @@ Apple iOS is a proprietary mobile operating system designed for use with Apple's
 
   <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/da6f6bb0-6176-4e7d-97cd-3c323b67dc9c" alt="Image 2" width="180" height="auto">
 
+### ActionSheet:
+
+ <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/7d359a3e-0da6-4b9f-9534-2fdcbe65351b" alt="Image 2" width="180" height="auto">
+
+### ContextMenu : 
+
+- Context menu is the menu that show up when long pressing or right clicking on text in Flutter, and they show options like Cut, Copy, Paste, and Select all. 
+
+ <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/2c29c9c5-f9ae-4aa0-90ea-bf5acca26b26" alt="Image 2" width="180" height="auto">
+
+  <details> 
+  <summary><h2>📽️Video</h2></summary>
+  <p>
+    <table align="center">
+  <tr>
+    <video src ="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/48dbaec2-ba7d-4ed8-8ae7-10f17bb7ce6f"></video> </h1> 
+
+  </tr>
+    </table>   
+  </p>
+  </details>
+
+
+
+
 ## Implementation Resources:
 
 - [Go to dart file](https://github.com/AnjaliPurohit2811/adv_flutter_ch2)
 
 ### Additional Visuals:
 - Videos showcasing the functionality of BottomTab, RangeSlider, and SliderSegment.
-[pageviewvideo.w)
+
+
