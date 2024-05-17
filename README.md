@@ -108,6 +108,24 @@ Apple iOS is a proprietary mobile operating system designed for use with Apple's
   </p>
   </details>
 
+  ### Material DatePicker:
+
+  <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/08a4c53a-0544-4f8e-a4c0-69e9ec4e58f7" alt="Image 2" width="180" height="auto">
+
+     <details> 
+  <summary><h2>📽️Video</h2></summary>
+  <p>
+    <table align="center">
+  <tr>
+    <video src ="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/958e9573-bfe1-4eb3-a726-ccf01074ef5e"></video> </h1> 
+
+  </tr>
+    </table>   
+  </p>
+  </details>
+
+
+
 
 
 
