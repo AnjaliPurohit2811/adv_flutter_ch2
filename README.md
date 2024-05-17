@@ -93,6 +93,22 @@ Apple iOS is a proprietary mobile operating system designed for use with Apple's
   </p>
   </details>
 
+  ### IOS DatePicker:
+
+  <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/ca23be9a-c184-43e6-9d19-f2715936679c" alt="Image 2" width="180" height="auto">
+
+   <details> 
+  <summary><h2>📽️Video</h2></summary>
+  <p>
+    <table align="center">
+  <tr>
+    <video src ="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/2fb68e96-b2d9-45d2-b52f-92a89d78257f"></video> </h1>  
+  </tr>
+    </table>   
+  </p>
+  </details>
+
+
 
 
 
@@ -100,7 +116,6 @@ Apple iOS is a proprietary mobile operating system designed for use with Apple's
 
 - [Go to dart file](https://github.com/AnjaliPurohit2811/adv_flutter_ch2)
 
-### Additional Visuals:
-- Videos showcasing the functionality of BottomTab, RangeSlider, and SliderSegment.
+
 
 
