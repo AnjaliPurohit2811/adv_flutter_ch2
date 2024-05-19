@@ -124,6 +124,15 @@ Apple iOS is a proprietary mobile operating system designed for use with Apple's
   </p>
   </details>
 
+  ### SliverGrid & SLiverList
+
+   <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/a10a7096-f558-4219-b2bf-f8221099b356" alt="Image 2" width="180" height="auto">
+
+   <img src="https://github.com/AnjaliPurohit2811/adv_flutter_ch2/assets/143180602/e6e8caa6-60d2-40a0-b252-6c0c6a5c4c78" alt="Image 2" width="180" height="auto">
+
+
+  
+
 
 
 
